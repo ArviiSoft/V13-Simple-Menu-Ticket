@@ -1,0 +1,29 @@
+{
+  "name": "arviis-simple-menu-ticket",
+  "version": "9.9.9",
+  "description": "arviis. - Simple Menu Ticket Sistemi",
+  "main": "arvis.js",
+  "scripts": {
+    "test": "node arvis.js",
+    "arviis:dev": "nodemon arvis.js"
+    },
+
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ArviiSoft/V13-Simple-Menu-Ticket.git"
+    },
+
+    "author": "arviis.",
+    "license": "MIT",
+
+  "bugs": {
+      "url": "https://github.com/ArviiSoft/V13-Simple-Menu-Ticket/issues"
+    },
+
+    "homepage": "https://github.com/ArviiSoft/V13-Simple-Menu-Ticket#readme",
+    "dependencies": {
+    "discord.js": "^13.3.1",
+    "enmap": "^5.8.7",
+    "nodemon": "^2.0.20"
+  }
+}
