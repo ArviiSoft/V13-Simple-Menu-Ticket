@@ -5,6 +5,8 @@
 
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
 https://www.itemsatis.com/discord/v13-simple-menu-ticket-1790691.html
+
+https://www.itempazar.com/discord-uye-nitro-sunucu/v13-simple-menu-ticket-116410
 # 
 #
 
